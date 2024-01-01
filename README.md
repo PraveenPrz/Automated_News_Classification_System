@@ -1,7 +1,7 @@
-Overview
+Overview:
 This project focuses on developing a news classification system using Natural Language Processing (NLP) techniques. The goal is to automatically categorize news articles into different topics, such as sports, business, politics, and weather. The project involves web scraping, data preprocessing, and the implementation of machine learning models to achieve accurate and reliable classification.
 
-Key Features
+Key Features:
 Web Scraping: The system extracts news articles from diverse sources, including prominent websites such as BBC, The Hindu, Times Now, and CNN, using web scraping tools like BeautifulSoup and Selenium.
 
 Data Cleaning and Preprocessing: Irrelevant information, including HTML tags and advertisements, is removed. The text is tokenized, stop words are eliminated, and lemmatization or stemming is applied for effective data preprocessing.
